@@ -1,0 +1,38 @@
+.ul1{
+    position: fixed;
+    display: inline;
+    width: 100%;
+    margin-top: 0px;
+    margin-right: 30px;
+    top: 0px;
+    z-index: 10;
+    text-align: center;
+    background-color: white;
+}
+.link{
+    display: inline;
+}
+#card-dica{
+    background-color: lightgray;
+    border-left: 3px solid gray;
+}
+#cart{
+    font-size: 20px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    text-align: center;
+}
+.all{
+    text-align: center;
+}
+#Avançado{
+    text-align: center;
+}
+#card-dica1{
+    background-color: lightgray;
+    border-left: 3px solid gray;
+}
